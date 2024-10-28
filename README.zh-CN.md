@@ -1,4 +1,4 @@
-flask-apiflask
+烧瓶-apiflask
 
 # Flask APIFlask
 
@@ -26,7 +26,7 @@ flask-apiflask
 
 http&#x3A;//本地主机:5000
 
-现在访问交互式 API 文档 (Swagger UI)：http&#x3A;//localhost:5000/docs：
+Now visit the interactive API documentation (Swagger UI) at http&#x3A;//localhost:5000/docs:
 
 ![image](https://github.com/user-attachments/assets/32bbb227-97fc-4f39-808b-a9f91f917979)
 
