@@ -1,6 +1,6 @@
 flacon-apifflask
 
-# Flask APIFlask
+# Flacon APIFlacon
 
 > APIFlask est un framework d'API Web Python léger basé sur[Ballon](https://github.com/pallets/flask)et[code de guimauve](https://github.com/marshmallow-code)projets. Il est facile à utiliser, hautement personnalisable, indépendant de l'ORM/ODM et 100 % compatible avec l'écosystème Flask.
 
