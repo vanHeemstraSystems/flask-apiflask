@@ -8,7 +8,7 @@ kolf-apiflas
 
 **Samenvatting**
 
-Voer het uit met:
+Na[installatie](./300/100/README.md), voer het uit met:
 
     $ cd flask_apiflask/src/example
     $ flask run --reload
@@ -50,4 +50,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-Zien[README.md](./400/README.md)
+See [README.md](./400/README.md)
