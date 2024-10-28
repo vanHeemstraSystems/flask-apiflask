@@ -1,8 +1,8 @@
-flask-apiflask
+قارورة apiflask
 
-# Flask APIFlask
+# قارورة APIFlask
 
-> APIFlask هو إطار عمل خفيف الوزن لواجهة برمجة تطبيقات ويب Python يعتمد على[Flask](https://github.com/pallets/flask)و[marshmallow-code](https://github.com/marshmallow-code)المشاريع. إنه سهل الاستخدام، وقابل للتخصيص بدرجة كبيرة، ولا يتوافق مع ORM/ODM، ومتوافق بنسبة 100% مع نظام Flask البيئي.
+> APIFlask هو إطار عمل خفيف الوزن لواجهة برمجة تطبيقات ويب Python يعتمد على[قارورة](https://github.com/pallets/flask)و[رمز الخطمي](https://github.com/marshmallow-code)المشاريع. إنه سهل الاستخدام، وقابل للتخصيص بدرجة كبيرة، ولا يتوافق مع ORM/ODM، ومتوافق بنسبة 100% مع نظام Flask البيئي.
 
 [مراجع](./REFERENCES.md)
 
@@ -10,7 +10,7 @@ flask-apiflask
 
 نص
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
@@ -22,6 +22,6 @@ flask-apiflask
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - Conclusion
 
 يرى[README.md](./400/README.md)
