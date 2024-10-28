@@ -7,7 +7,34 @@ flask-apiflask
 
 **Executive Summary**
 
-Text
+Run it with:
+
+```
+$ cd flask_apiflask/src/example
+$ flask run --reload
+```
+
+Or run in debug mode:
+
+```
+$ cd flask_apiflask/src/example
+$ flask run --debug
+```
+
+Visit the web page at http://localhost:5000 to see the home page:
+
+```
+{
+  "message": "Hello!"
+}
+```
+http://localhost:5000
+
+Now visit the interactive API documentation (Swagger UI) at http://localhost:5000/docs:
+
+![image](https://github.com/user-attachments/assets/32bbb227-97fc-4f39-808b-a9f91f917979)
+
+http://localhost:5000/docs
 
 ## 100 - Introduction
 
