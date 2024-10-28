@@ -7,7 +7,7 @@ flask-apiflask
 
 **Executive Summary**
 
-Run it with:
+After [installation](./300/100/README.md), run it with:
 
 ```
 $ cd flask_apiflask/src/example
