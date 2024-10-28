@@ -32,6 +32,10 @@ Bezoek nu de interactieve API-documentatie (Swagger UI) op http&#x3A;//localhost
 
 http&#x3A;//localhost:5000/docs
 
+Het automatisch gegenereerde OpenAPI-specificatiebestand is beschikbaar op http&#x3A;//localhost:5000/openapi.json. Je kunt de specificatie ook verkrijgen met[het kolfspecificatiecommando](https://apiflask.com/openapi/#the-flask-spec-command):
+
+    $ flask spec
+
 ## 100 - Inleiding
 
 Zien[README.md](./100/README.md)
