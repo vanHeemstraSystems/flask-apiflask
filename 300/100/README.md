@@ -1,4 +1,6 @@
-# 100 - Example
+# 200 - Example
+
+Create a file called ```app.py``` inside ```flask_apiflask/src/example/``` directory (following a Hatch directory structure):
 
 ```
 from apiflask import APIFlask, Schema, abort
@@ -52,5 +54,22 @@ def update_pet(pet_id, json_data):
         pets[pet_id][attr] = value
     return pets[pet_id]
 ```
-flask_apiflask/example/app.py
+flask_apiflask/src/example/app.py
 
+Save this as app.py, then run it with:
+
+```
+$ cd flask_apiflask/src/example
+$ flask run --reload
+```
+
+Or run in debug mode:
+
+```
+$ cd flask_apiflask/src/example
+$ flask run --debug
+```
+
+Now visit the interactive API documentation (Swagger UI) at http://localhost:5000/docs:
+
+MORE
