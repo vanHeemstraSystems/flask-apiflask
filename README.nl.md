@@ -2,11 +2,11 @@ kolf-apiflas
 
 # Kolf APIFlask
 
-> APIFlask is een lichtgewicht Python-web-API-framework gebaseerd op[Kolf](https://github.com/pallets/flask)En[marshmallow-code](https://github.com/marshmallow-code) projects. It's easy to use, highly customizable, ORM/ODM-agnostic, and 100% compatible with the Flask ecosystem.
+> APIFlask is een lichtgewicht Python-web-API-framework gebaseerd op[Kolf](https://github.com/pallets/flask)En[marshmallow-code](https://github.com/marshmallow-code)projecten. Het is gemakkelijk te gebruiken, zeer aanpasbaar, ORM/ODM-agnostisch en 100% compatibel met het Flask-ecosysteem.
 
-[References](./REFERENCES.md)
+[Referenties](./REFERENCES.md)
 
-**Executive Summary**
+**Samenvatting**
 
 Tekst
 
@@ -20,7 +20,7 @@ Zien[README.md](./200/README.md)
 
 ## 300 - Onze applicatie bouwen
 
-See [README.md](./300/README.md)
+Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
