@@ -1,8 +1,8 @@
-儲存庫名稱
+燒瓶-apiflask
 
-# 儲存庫名稱
+# Flask APIFlask
 
-> 斯拉格萊恩
+> APIFlask 是一個基於 Flask 和 marshmallow-code 專案的輕量級 Python Web API 框架。它易於使用、高度可自訂、與 ORM/ODM 無關，並且與 Flask 生態系統 100% 相容。
 
 [參考](./REFERENCES.md)
 
