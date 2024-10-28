@@ -1,4 +1,4 @@
-फ्लास्क-एपिफ्लास्क
+flask-apiflask
 
 # फ्लास्क एपीआईफ्लास्क
 
@@ -36,7 +36,7 @@ http&#x3A;//localhost:5000/docs
 
     $ flask spec
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
@@ -50,4 +50,4 @@ http&#x3A;//localhost:5000/docs
 
 ## 400 - निष्कर्ष
 
-देखना[README.md](./400/README.md)
+See [README.md](./400/README.md)
