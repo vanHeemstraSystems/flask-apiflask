@@ -1,12 +1,12 @@
 matraz-apiflask
 
-# Flask APIFlask
+# Matraz APIFlasco
 
 > APIFlask es un marco API web ligero de Python basado en[Matraz](https://github.com/pallets/flask)y[código de malvavisco](https://github.com/marshmallow-code)proyectos. Es fácil de usar, altamente personalizable, independiente de ORM/ODM y 100% compatible con el ecosistema Flask.
 
 [Referencias](./REFERENCES.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Ejecútelo con:
 
@@ -36,7 +36,7 @@ El archivo de especificaciones OpenAPI generado automáticamente está disponibl
 
     $ flask spec
 
-## 100 - Introduction
+## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
