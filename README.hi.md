@@ -2,9 +2,9 @@
 
 # फ्लास्क एपीआईफ्लास्क
 
-> एपीआईफ्लास्क एक हल्का पायथन वेब एपीआई फ्रेमवर्क है जो पर आधारित है[फ्लास्क](https://github.com/pallets/flask)और[मार्शमैलो-कोड](https://github.com/marshmallow-code)परियोजनाएं. इसका उपयोग करना आसान है, उच्च अनुकूलन योग्य, ORM/ODM-अज्ञेयवादी, और फ्लास्क पारिस्थितिकी तंत्र के साथ 100% संगत है।
+> APIFlask is a lightweight Python web API framework based on [फ्लास्क](https://github.com/pallets/flask)और[मार्शमैलो-कोड](https://github.com/marshmallow-code)परियोजनाएं. इसका उपयोग करना आसान है, उच्च अनुकूलन योग्य, ORM/ODM-अज्ञेयवादी, और फ्लास्क पारिस्थितिकी तंत्र के साथ 100% संगत है।
 
-[References](./REFERENCES.md)
+[संदर्भ](./REFERENCES.md)
 
 **कार्यकारी सारांश**
 
@@ -14,7 +14,7 @@
 
 देखना[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - आवश्यकताएँ
 
 देखना[README.md](./200/README.md)
 
