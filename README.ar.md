@@ -1,10 +1,10 @@
-قارورة قارورة
+قارورة apiflask
 
 # قارورة APIFlask
 
 > APIFlask هو إطار عمل خفيف الوزن لواجهة برمجة تطبيقات ويب Python يعتمد على[قارورة](https://github.com/pallets/flask)و[رمز الخطمي](https://github.com/marshmallow-code)المشاريع. إنه سهل الاستخدام، وقابل للتخصيص بدرجة كبيرة، ولا يتوافق مع ORM/ODM، ومتوافق بنسبة 100% مع نظام Flask البيئي.
 
-[References](./REFERENCES.md)
+[مراجع](./REFERENCES.md)
 
 **ملخص تنفيذي**
 
@@ -12,7 +12,7 @@
 
 ## 100- مقدمة
 
-يرى[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
