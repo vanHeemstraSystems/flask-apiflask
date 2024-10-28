@@ -8,7 +8,29 @@ matraz-apiflask
 
 **Resumen ejecutivo**
 
-Texto
+Ejecútelo con:
+
+    $ cd flask_apiflask/src/example
+    $ flask run --reload
+
+O ejecutar en modo de depuración:
+
+    $ cd flask_apiflask/src/example
+    $ flask run --debug
+
+Visite la página web en http&#x3A;//localhost:5000 para ver la página de inicio:
+
+    {
+      "message": "Hello!"
+    }
+
+http&#x3A;//localhost:5000
+
+Ahora visite la documentación de la API interactiva (Swagger UI) en http&#x3A;//localhost:5000/docs:
+
+![image](https://github.com/user-attachments/assets/32bbb227-97fc-4f39-808b-a9f91f917979)
+
+http&#x3A;//localhost:5000/docs
 
 ## 100 - Introducción
 
