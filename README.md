@@ -36,6 +36,12 @@ Now visit the interactive API documentation (Swagger UI) at http://localhost:500
 
 http://localhost:5000/docs
 
+The auto-generated OpenAPI spec file is available at http://localhost:5000/openapi.json. You can also get the spec with [the flask spec command](https://apiflask.com/openapi/#the-flask-spec-command):
+
+```
+$ flask spec
+```
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
