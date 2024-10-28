@@ -1,4 +1,4 @@
-燒瓶-apiflask
+flask-apiflask
 
 # Flask APIFlask
 
@@ -42,7 +42,7 @@ http&#x3A;//localhost:5000/docs
 
 ## 200 - 要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - 建立我們的應用程式
 
