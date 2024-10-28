@@ -85,4 +85,29 @@ Now visit the interactive API documentation (Swagger UI) at http://localhost:500
 
 http://localhost:5000/docs
 
-MORE
+Or you can change the API documentation UI when creating the APIFlask instance with the ```docs_ui``` parameter:
+
+```
+...
+app = APIFlask(__name__, docs_ui='redoc')
+...
+```
+flask_apiflask/src/example/app.py
+
+Now http://localhost:5000/docs will render the API documentation with Redoc.
+
+Supported ```docs_ui``` values (UI libraries) include:
+
+- ```swagger-ui``` (default value): [Swagger UI](https://github.com/swagger-api/swagger-ui)
+- ```redoc```: [Redoc](https://github.com/Redocly/redoc)
+- ```elements```: [Elements](https://github.com/stoplightio/elements)
+- ```rapidoc```: [RapiDoc](https://github.com/rapi-doc/RapiDoc)
+- ```rapipdf```: [RapiPDF](https://github.com/mrin9/RapiPdf)
+
+The auto-generated OpenAPI spec file is available at http://localhost:5000/openapi.json. You can also get the spec with [the flask spec command](https://apiflask.com/openapi/#the-flask-spec-command):
+
+```
+$ flask spec
+```
+
+For some complete examples, see [examples](https://github.com/apiflask/apiflask/tree/main/examples)
