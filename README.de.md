@@ -32,6 +32,10 @@ Besuchen Sie jetzt die interaktive API-Dokumentation (Swagger UI) unter http&#x3
 
 http&#x3A;//localhost:5000/docs
 
+Die automatisch generierte OpenAPI-Spezifikationsdatei ist unter http&#x3A;//localhost:5000/openapi.json verfügbar. Sie können die Spezifikation auch mit erhalten[der Befehl „flask spec“.](https://apiflask.com/openapi/#the-flask-spec-command):
+
+    $ flask spec
+
 ## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
@@ -44,6 +48,6 @@ Sehen[README.md](./200/README.md)
 
 Sehen[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 – Fazit
 
 Sehen[README.md](./400/README.md)
