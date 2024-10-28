@@ -6,7 +6,7 @@ repositorynaam
 
 [Referenties](./REFERENCES.md)
 
-**Samenvatting**
+**Executive Summary**
 
 Tekst
 
