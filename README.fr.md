@@ -1,4 +1,4 @@
-flask-apiflask
+flacon-apifflask
 
 # Flacon APIFlacon
 
@@ -8,7 +8,7 @@ flask-apiflask
 
 **Résumé exécutif**
 
-Exécutez-le avec :
+Après[installation](./300/100/README.md), exécutez-le avec :
 
     $ cd flask_apiflask/src/example
     $ flask run --reload
@@ -36,7 +36,7 @@ Le fichier de spécifications OpenAPI généré automatiquement est disponible s
 
     $ flask spec
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
