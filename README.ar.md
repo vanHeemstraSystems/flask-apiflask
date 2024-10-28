@@ -1,19 +1,19 @@
-قارورة apiflask
+قارورة قارورة
 
 # قارورة APIFlask
 
-> APIFlask هو إطار عمل خفيف الوزن لواجهة برمجة تطبيقات ويب Python يعتمد على[Flask](https://github.com/pallets/flask)و[رمز الخطمي](https://github.com/marshmallow-code)المشاريع. إنه سهل الاستخدام، وقابل للتخصيص بدرجة كبيرة، ولا يتوافق مع ORM/ODM، ومتوافق بنسبة 100% مع نظام Flask البيئي.
+> APIFlask هو إطار عمل خفيف الوزن لواجهة برمجة تطبيقات ويب Python يعتمد على[قارورة](https://github.com/pallets/flask)و[رمز الخطمي](https://github.com/marshmallow-code)المشاريع. إنه سهل الاستخدام، وقابل للتخصيص بدرجة كبيرة، ولا يتوافق مع ORM/ODM، ومتوافق بنسبة 100% مع نظام Flask البيئي.
 
 [مراجع](./REFERENCES.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 تشغيله مع:
 
     $ cd flask_apiflask/src/example
     $ flask run --reload
 
-Or run in debug mode:
+أو قم بالتشغيل في وضع التصحيح:
 
     $ cd flask_apiflask/src/example
     $ flask run --debug
@@ -32,11 +32,15 @@ http&#x3A;//localhost:5000
 
 http&#x3A;//localhost:5000/docs
 
+يتوفر ملف مواصفات OpenAPI الذي تم إنشاؤه تلقائيًا على http&#x3A;//localhost:5000/openapi.json. يمكنك أيضًا الحصول على المواصفات باستخدام[أمر مواصفات القارورة](https://apiflask.com/openapi/#the-flask-spec-command):
+
+    $ flask spec
+
 ## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
