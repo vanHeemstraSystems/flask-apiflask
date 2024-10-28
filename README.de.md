@@ -8,7 +8,29 @@ Kolben-Apiflask
 
 **Zusammenfassung**
 
-Text
+Führen Sie es aus mit:
+
+    $ cd flask_apiflask/src/example
+    $ flask run --reload
+
+Oder im Debug-Modus ausführen:
+
+    $ cd flask_apiflask/src/example
+    $ flask run --debug
+
+Besuchen Sie die Webseite unter http&#x3A;//localhost:5000, um die Homepage anzuzeigen:
+
+    {
+      "message": "Hello!"
+    }
+
+http&#x3A;//localhost:5000
+
+Besuchen Sie jetzt die interaktive API-Dokumentation (Swagger UI) unter http&#x3A;//localhost:5000/docs:
+
+![image](https://github.com/user-attachments/assets/32bbb227-97fc-4f39-808b-a9f91f917979)
+
+http&#x3A;//localhost:5000/docs
 
 ## 100 - Einführung
 
@@ -22,6 +44,6 @@ Sehen[README.md](./200/README.md)
 
 Sehen[README.md](./300/README.md)
 
-## 400 – Fazit
+## 400 - Conclusion
 
 Sehen[README.md](./400/README.md)
