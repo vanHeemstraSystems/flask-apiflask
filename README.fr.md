@@ -1,4 +1,4 @@
-flacon-apifflask
+flask-apiflask
 
 # Flacon APIFlacon
 
