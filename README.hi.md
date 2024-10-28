@@ -8,7 +8,29 @@
 
 **कार्यकारी सारांश**
 
-मूलपाठ
+इसे इसके साथ चलाएँ:
+
+    $ cd flask_apiflask/src/example
+    $ flask run --reload
+
+या डिबग मोड में चलाएँ:
+
+    $ cd flask_apiflask/src/example
+    $ flask run --debug
+
+होम पेज देखने के लिए http&#x3A;//localhost:5000 पर वेब पेज पर जाएँ:
+
+    {
+      "message": "Hello!"
+    }
+
+http&#x3A;//localhost:5000
+
+अब http&#x3A;//localhost:5000/docs पर इंटरैक्टिव एपीआई दस्तावेज़ (स्वैगर यूआई) पर जाएं:
+
+![image](https://github.com/user-attachments/assets/32bbb227-97fc-4f39-808b-a9f91f917979)
+
+http&#x3A;//localhost:5000/docs
 
 ## 100 - परिचय
 
