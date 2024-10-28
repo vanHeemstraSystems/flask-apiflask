@@ -1,4 +1,4 @@
-flask-apiflask
+फ्लास्क-एपिफ्लास्क
 
 # फ्लास्क एपीआईफ्लास्क
 
@@ -8,7 +8,7 @@ flask-apiflask
 
 **कार्यकारी सारांश**
 
-इसे इसके साथ चलाएँ:
+बाद[इंस्टालेशन](./300/100/README.md), इसे इसके साथ चलाएँ:
 
     $ cd flask_apiflask/src/example
     $ flask run --reload
