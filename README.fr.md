@@ -8,7 +8,29 @@ flacon-apifflask
 
 **Résumé exécutif**
 
-Texte
+Exécutez-le avec :
+
+    $ cd flask_apiflask/src/example
+    $ flask run --reload
+
+Ou exécutez en mode débogage :
+
+    $ cd flask_apiflask/src/example
+    $ flask run --debug
+
+Visitez la page Web à l'adresse http&#x3A;//localhost:5000 pour voir la page d'accueil :
+
+    {
+      "message": "Hello!"
+    }
+
+http&#x3A;//localhost:5000
+
+Visitez maintenant la documentation interactive de l'API (Swagger UI) à l'adresse http&#x3A;//localhost:5000/docs :
+
+![image](https://github.com/user-attachments/assets/32bbb227-97fc-4f39-808b-a9f91f917979)
+
+http&#x3A;//localhost:5000/docs
 
 ## 100 - Présentation
 

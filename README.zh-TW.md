@@ -8,7 +8,29 @@
 
 **執行摘要**
 
-文字
+運行它：
+
+    $ cd flask_apiflask/src/example
+    $ flask run --reload
+
+或在調試模式下運行：
+
+    $ cd flask_apiflask/src/example
+    $ flask run --debug
+
+造訪http&#x3A;//localhost:5000即可看到首頁：
+
+    {
+      "message": "Hello!"
+    }
+
+http&#x3A;//本地主機:5000
+
+現在存取互動式 API 文件 (Swagger UI)：http&#x3A;//localhost:5000/docs：
+
+![image](https://github.com/user-attachments/assets/32bbb227-97fc-4f39-808b-a9f91f917979)
+
+http&#x3A;//localhost:5000/docs
 
 ## 100 - 簡介
 
@@ -24,4 +46,4 @@
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)

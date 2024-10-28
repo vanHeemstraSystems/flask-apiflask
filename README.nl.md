@@ -8,7 +8,29 @@ kolf-apiflas
 
 **Samenvatting**
 
-Tekst
+Voer het uit met:
+
+    $ cd flask_apiflask/src/example
+    $ flask run --reload
+
+Of voer het uit in debug-modus:
+
+    $ cd flask_apiflask/src/example
+    $ flask run --debug
+
+Bezoek de webpagina op http&#x3A;//localhost:5000 om de startpagina te bekijken:
+
+    {
+      "message": "Hello!"
+    }
+
+http&#x3A;//localhost:5000
+
+Bezoek nu de interactieve API-documentatie (Swagger UI) op http&#x3A;//localhost:5000/docs:
+
+![image](https://github.com/user-attachments/assets/32bbb227-97fc-4f39-808b-a9f91f917979)
+
+http&#x3A;//localhost:5000/docs
 
 ## 100 - Inleiding
 
