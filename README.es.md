@@ -32,6 +32,10 @@ Ahora visite la documentación de la API interactiva (Swagger UI) en http&#x3A;/
 
 http&#x3A;//localhost:5000/docs
 
+El archivo de especificaciones OpenAPI generado automáticamente está disponible en http&#x3A;//localhost:5000/openapi.json. También puedes obtener las especificaciones con[el comando de especificación del matraz](https://apiflask.com/openapi/#the-flask-spec-command):
+
+    $ flask spec
+
 ## 100 - Introducción
 
 Ver[README.md](./100/README.md)

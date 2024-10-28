@@ -1,4 +1,4 @@
-烧瓶-apiflask
+flask-apiflask
 
 # Flask APIFlask
 
@@ -31,6 +31,10 @@ http&#x3A;//本地主机:5000
 ![image](https://github.com/user-attachments/assets/32bbb227-97fc-4f39-808b-a9f91f917979)
 
 http&#x3A;//localhost:5000/docs
+
+自动生成的 OpenAPI 规范文件位于 http&#x3A;//localhost:5000/openapi.json。您还可以通过以下方式获取规格[烧瓶规格命令](https://apiflask.com/openapi/#the-flask-spec-command):
+
+    $ flask spec
 
 ## 100 - 简介
 

@@ -32,6 +32,10 @@ http&#x3A;//本地主機:5000
 
 http&#x3A;//localhost:5000/docs
 
+自動產生的 OpenAPI 規範檔案位於 http&#x3A;//localhost:5000/openapi.json。您也可以透過以下方式取得規格[燒瓶規格指令](https://apiflask.com/openapi/#the-flask-spec-command):
+
+    $ flask spec
+
 ## 100 - 簡介
 
 看[README.md](./100/README.md)
@@ -46,4 +50,4 @@ http&#x3A;//localhost:5000/docs
 
 ## 400 - 結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
