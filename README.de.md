@@ -4,7 +4,7 @@ Kolben-Apiflask
 
 > APIFlask ist ein leichtes Python-Web-API-Framework, das auf basiert[Flasche](https://github.com/pallets/flask)Und[Marshmallow-Code](https://github.com/marshmallow-code)Projekte. Es ist einfach zu bedienen, hochgradig anpassbar, ORM/ODM-agnostisch und 100 % kompatibel mit dem Flask-Ökosystem.
 
-[References](./REFERENCES.md)
+[Referenzen](./REFERENCES.md)
 
 **Zusammenfassung**
 
