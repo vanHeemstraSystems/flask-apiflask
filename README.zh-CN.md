@@ -8,7 +8,7 @@
 
 **执行摘要**
 
-运行它：
+后[安装](./300/100/README.md)，运行它：
 
     $ cd flask_apiflask/src/example
     $ flask run --reload
