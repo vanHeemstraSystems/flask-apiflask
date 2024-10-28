@@ -8,7 +8,7 @@ matraz-apiflask
 
 **Resumen ejecutivo**
 
-Ejecútelo con:
+Después[instalación](./300/100/README.md), ejecútelo con:
 
     $ cd flask_apiflask/src/example
     $ flask run --reload
@@ -38,7 +38,7 @@ El archivo de especificaciones OpenAPI generado automáticamente está disponibl
 
 ## 100 - Introducción
 
-Ver[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Requisitos
 
