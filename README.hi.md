@@ -32,6 +32,10 @@ http&#x3A;//localhost:5000
 
 http&#x3A;//localhost:5000/docs
 
+स्वत: जेनरेट की गई ओपनएपीआई स्पेक फ़ाइल http&#x3A;//localhost:5000/openapi.json पर उपलब्ध है। आप इसके साथ विशिष्टता भी प्राप्त कर सकते हैं[फ्लास्क स्पेक कमांड](https://apiflask.com/openapi/#the-flask-spec-command):
+
+    $ flask spec
+
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
