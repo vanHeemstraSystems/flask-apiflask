@@ -36,7 +36,7 @@ http&#x3A;//localhost:5000/docs
 
     $ flask spec
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
@@ -50,4 +50,4 @@ http&#x3A;//localhost:5000/docs
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
