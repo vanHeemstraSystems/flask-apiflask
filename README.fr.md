@@ -2,7 +2,7 @@ flacon-apifflask
 
 # Flacon APIFlacon
 
-> APIFlask est un framework d'API Web Python léger basé sur[Ballon](https://github.com/pallets/flask)et[code de guimauve](https://github.com/marshmallow-code)projets. Il est facile à utiliser, hautement personnalisable, indépendant de l'ORM/ODM et 100 % compatible avec l'écosystème Flask.
+> APIFlask est un framework d'API Web Python léger basé sur[Ballon](https://github.com/pallets/flask) and [marshmallow-code](https://github.com/marshmallow-code)projets. Il est facile à utiliser, hautement personnalisable, indépendant de l'ORM/ODM et 100 % compatible avec l'écosystème Flask.
 
 [Références](./REFERENCES.md)
 
@@ -32,7 +32,7 @@ Visitez maintenant la documentation interactive de l'API (Swagger UI) à l'adres
 
 http&#x3A;//localhost:5000/docs
 
-Le fichier de spécifications OpenAPI généré automatiquement est disponible sur http&#x3A;//localhost:5000/openapi.json. Vous pouvez également obtenir les spécifications avec[la commande de spécification de flacon](https://apiflask.com/openapi/#the-flask-spec-command):
+Le fichier de spécifications OpenAPI généré automatiquement est disponible sur http&#x3A;//localhost:5000/openapi.json. Vous pouvez également obtenir les spécifications avec[the flask spec command](https://apiflask.com/openapi/#the-flask-spec-command):
 
     $ flask spec
 
