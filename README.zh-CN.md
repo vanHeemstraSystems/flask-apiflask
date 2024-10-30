@@ -1,8 +1,8 @@
-烧瓶-apiflask
+flask-apiflask
 
 # Flask APIFlask
 
-> APIFlask是一个基于Python的轻量级Web API框架[烧瓶](https://github.com/pallets/flask)和[棉花糖代码](https://github.com/marshmallow-code)项目。它易于使用、高度可定制、与 ORM/ODM 无关，并且与 Flask 生态系统 100% 兼容。
+> APIFlask是一个基于Python的轻量级Web API框架[烧瓶](https://github.com/pallets/flask)和[marshmallow-code](https://github.com/marshmallow-code)项目。它易于使用、高度可定制、与 ORM/ODM 无关，并且与 Flask 生态系统 100% 兼容。
 
 [参考](./REFERENCES.md)
 
