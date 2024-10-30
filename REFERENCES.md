@@ -11,3 +11,4 @@
 - Discussion: https://github.com/apiflask/apiflask/discussions
 - Twitter: https://twitter.com/apiflask
 - Open Collective: https://opencollective.com/apiflask
+- [Host, run, and code Python in the cloud!](https://www.pythonanywhere.com/)
